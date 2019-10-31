@@ -1,4 +1,6 @@
-XML sent with the request via postman to get a Billion Laughs attack:
+Run the php file in a XAMPP instance. Then issue queries to the server with these XMLs included (only one XML per query, so one example per query).
+
+Billion Laughs attack:
 
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?> 
