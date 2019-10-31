@@ -1,4 +1,4 @@
-Run the php file in a XAMPP instance. Then issue queries to the server with these XMLs included (only one XML per query, so one example per query).
+Run the php file in a XAMPP instance. Then issue queries to the server with these XMLs included (only one XML per query, so one example per query), e.g. with Postman.
 
 Billion Laughs attack:
 
