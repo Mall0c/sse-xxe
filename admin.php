@@ -1,0 +1,1 @@
+Ja moin. You got access to confidential information through Server Side Request Forgery (SSRF).
