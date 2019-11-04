@@ -1,6 +1,8 @@
 Run the php file in a XAMPP instance. Then issue queries to the server with these XMLs included (only one XML per query, so one example per query), e.g. with Postman.
 
-Billion Laughs attack:
+These examples are intented to be performed live and by the fellow students.
+
+1st task: Billion Laughs attack:
 
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?> 
@@ -17,7 +19,7 @@ Billion Laughs attack:
 </creds>
 ```
 
-Retrieve a non-binary file from the server's machine:
+2nd task: Retrieve a non-binary file from the server's machine:
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE foo [ <!ELEMENT foo ANY >
@@ -28,7 +30,7 @@ Retrieve a non-binary file from the server's machine:
 </creds>
 ```
 
-Retrieve a binary file from the server's machine (Base64 encoded):
+3rd task: Retrieve a binary file from the server's machine (Base64 encoded):
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE foo [
@@ -42,7 +44,7 @@ Retrieve a binary file from the server's machine (Base64 encoded):
 </creds>
 ```
 
-Get the result of a request made by the server to a website (Base64 encoded):
+4th task: Get the result of a request made by the server to a website (Base64 encoded):
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE foo [
