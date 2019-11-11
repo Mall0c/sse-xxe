@@ -1,3 +1,5 @@
+From: https://depthsecurity.com/blog/exploitation-xml-external-entity-xxe-injection
+https://dzone.com/articles/what-is-xml-external-entity-xxe
 Run the php file in a XAMPP instance. Then issue queries to the server with these XMLs included (only one XML per query, so one example per query), e.g. with Postman.
 
 These examples are intented to be performed live and by the fellow students.
